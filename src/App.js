@@ -19,6 +19,7 @@ function App() {
         </a>
 
         <h1>My First React App</h1>
+        <p>Welcome :)</p>
       </header>
     </div>
   );
